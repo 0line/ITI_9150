@@ -1,0 +1,7 @@
+C:\Users\signalmx\git\ITI_9150\Herencia_Tarea\obj\Debug\Herencia_Tarea.csprojResolveAssemblyReference.cache
+C:\Users\signalmx\git\ITI_9150\Herencia_Tarea\obj\Debug\Herencia_Tarea.csproj.CoreCompileInputs.cache
+C:\Users\signalmx\git\ITI_9150\Herencia_Tarea\bin\Debug\Herencia_Tarea.exe.config
+C:\Users\signalmx\git\ITI_9150\Herencia_Tarea\bin\Debug\Herencia_Tarea.exe
+C:\Users\signalmx\git\ITI_9150\Herencia_Tarea\bin\Debug\Herencia_Tarea.pdb
+C:\Users\signalmx\git\ITI_9150\Herencia_Tarea\obj\Debug\Herencia_Tarea.exe
+C:\Users\signalmx\git\ITI_9150\Herencia_Tarea\obj\Debug\Herencia_Tarea.pdb
